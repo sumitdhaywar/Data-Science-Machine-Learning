@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter checkpoint files
+*-checkpoint.ipynb
+
+# Python virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
